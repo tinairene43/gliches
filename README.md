@@ -1,0 +1,2 @@
+# gliches
+screen is jumping 
